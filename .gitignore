@@ -4,5 +4,9 @@ CMakeCache.txt
 CMakeFiles
 Makefile
 cmake_install.cmake
+CTestTestfile.cmake
+
+lib/
+_deps/
 
 build/
